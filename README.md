@@ -9,12 +9,12 @@
 
 •Trocar icon (29-78)
 
-•Trocar icon para qualquer outro(Apenas client)
+•Trocar icon para qualquer outro(apenas client)
 
-•Mudar status(Bypass no numero de caracteres)
+•Mudar status(bypass no numero de caracteres)
 
-•Deletar amigos(Deletar todos os amigos)
+•Deletar amigos(deletar todos os amigos)
 
-•Copiar amigo(copia icon e status)
+•Copiar amigo(copia icon e status do amigo)
 
 •MultiClients(abrir mais de um client)
