@@ -7,9 +7,9 @@
 
 •Modificar background
 
-•Trocar icon (29-78)
+•Trocar icon (29-78) https://gonext.today/blog/explorer/icon
 
-•Trocar icon para qualquer outro(apenas client)
+•Trocar icon para qualquer outro(apenas client) https://gonext.today/blog/explorer/icon
 
 •Mudar status(bypass no numero de caracteres)
 
